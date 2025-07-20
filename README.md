@@ -19,5 +19,6 @@ A fun console game written in Python where you guess the price of popular coffee
 
 ## 💻 How to run
 
+
 ```bash
 python guess_coffee_price.py
